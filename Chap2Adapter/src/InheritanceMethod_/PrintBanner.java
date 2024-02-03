@@ -1,3 +1,5 @@
+package InheritanceMethod_;
+
 /**
  * @author ryanw
  */
