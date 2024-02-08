@@ -4,7 +4,7 @@ package Practice5_2;
  * @author ryanw
  */
 public class Triple {
-    private static Triple[] triples = new Triple[]{
+    private static Triple[] triples = new Triple[] {
             new Triple(0),
             new Triple(1),
             new Triple(2)
