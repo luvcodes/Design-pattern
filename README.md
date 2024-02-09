@@ -1,6 +1,6 @@
 # Design-pattern
 
-This is a repository for learning design pattern with Java Implementation, based on the contents of 《图解设计模式》
+This is a repository for learning design pattern with Java Implementation, based on the contents of 《图解设计模式�?
 
 # Iterator Pattern
 
@@ -9,4 +9,7 @@ This is a repository for learning design pattern with Java Implementation, based
 # Adapter Pattern
 
 
+# Singleton Pattern
+
+# Prototype Pattern
 
