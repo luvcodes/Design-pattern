@@ -2,7 +2,7 @@
  * @author ryanw
  */
 public class PrinterProxy implements Printable{
-    // 名字
+    // 打印机代理的名字
     private String name;
     // 本人
     private Printer real;
@@ -36,7 +36,7 @@ public class PrinterProxy implements Printable{
     }
 
     private synchronized void realize() {
-        if (name == null) {
+        if (real == null) {
             real = new Printer(name);
         }
     }
