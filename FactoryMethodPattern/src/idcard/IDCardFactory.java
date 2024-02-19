@@ -2,7 +2,6 @@ package idcard;
 
 import framework.Factory;
 import framework.Product;
-
 import java.util.ArrayList;
 import java.util.List;
 
